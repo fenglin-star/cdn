@@ -2,4 +2,4 @@
 cdn for website
  
 
-自动提交测试
+自动提交：https://cdn.jsdelivr.net/gh/fenglin-star/cdn/
