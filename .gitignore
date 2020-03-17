@@ -15,3 +15,5 @@
 *.ldb  
 *.sln  
 *.config
+*.json
+*.ini
