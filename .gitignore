@@ -11,3 +11,7 @@
 *.gz
 *.db
 *.db3
+*.mdb  
+*.ldb  
+*.sln  
+*.config  
