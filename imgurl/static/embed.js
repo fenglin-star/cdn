@@ -86,10 +86,10 @@ layui.use(['upload','form','element','layer','flow'], function(){
             ,url: '/upload/localhost'
             ,accept:'file'
             ,acceptMime:'image/webp,image/jpeg,image/pjpeg,image/bmp,image/png,image/x-png,image/gif'
-            ,exts: 'jpg|jpeg|png|gif|bmp|webp'
+            ,exts: 'jpg|jpeg|png|gif|bmp|webp|apk'
             ,multiple:true
             ,size:10240
-            ,number:20     //可同时上传数量
+            ,number:50     //可同时上传数量
             ,before: function(obj){ //上传之前的回调
                 //清空显示区域
                 $("#re-url pre").empty();
